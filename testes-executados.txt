@@ -1,0 +1,19 @@
+Leilao (Assuncaovictor\Tests\Model\Leilao)
+ [x] Leilao nao deve aceitar mais de 5 lances
+ [x] Leilao nao pode ter sequencia pelo mesmo usuario
+ [x] Leilao nao pode ser finalizado duas vezes
+ [x] Lances feitos em um leilao with data set "1 lance"
+ [x] Lances feitos em um leilao with data set "2 lances"
+
+Avaliador (Assuncaovictor\Tests\Service\Avaliador)
+ [x] Avaliador deve encontrar o maior o menor valor with data set "Ordem crescente"
+ [x] Avaliador deve encontrar o maior o menor valor with data set "Ordem decrescente"
+ [x] Avaliador deve encontrar o maior o menor valor with data set "leilao aleatorio"
+ [x] Avaliador deve encontrar os 3 maiores valores with data set "Ordem crescente"
+ [x] Avaliador deve encontrar os 3 maiores valores with data set "Ordem decrescente"
+ [x] Avaliador deve encontrar os 3 maiores valores with data set "leilao aleatorio"
+ [x] Avalia leilao vazio
+ [x] Avalia leilao finalizado with data set "Ordem crescente"
+ [x] Avalia leilao finalizado with data set "Ordem decrescente"
+ [x] Avalia leilao finalizado with data set "leilao aleatorio"
+
